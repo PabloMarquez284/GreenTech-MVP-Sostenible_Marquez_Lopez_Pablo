@@ -17,5 +17,5 @@ El código original utilizaba librerías innecesarias como Bootstrap y jQuery, a
 * Carga más rápida
 * Menor consumo de energía
 
-## 🌍 Conclusión
+## 🌱 Conclusión
 Reducir dependencias mejora el rendimiento y hace el software más sostenible.
