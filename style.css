@@ -5,7 +5,7 @@ body {
 }
 
 .hero {
-    background-image: url("Imagen/sostenible.jpg");
+    background-image: url("Imagen/sostenible.webp");
     background-size: cover;
     background-position: center;
     height: 100vh;
